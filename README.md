@@ -16,3 +16,6 @@ Using the new Express 4.0 Router to build an API
 
 ## Testing the API
 Test your API using [Postman](https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop)
+
+### No se terminó de probar por mí en su lugar se siguió el tutorial de Carlos Azaustre
+[Read tutorial](http://carlosazaustre.es/blog/como-crear-una-api-rest-usando-node-js/)
